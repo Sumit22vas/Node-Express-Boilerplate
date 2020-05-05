@@ -1,0 +1,14 @@
+{
+  "name": "nodeexpresboilerplate",
+  "version": "1.0.0",
+  "description": "Basic Directory Management In Node Js And Express App",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "sumit22vas",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
